@@ -12,7 +12,7 @@ class Addtwo {
     }
     public static void main(String[] args) {
         Addtwo num=new Addtwo(16,20);
-       num.addmain();
+        num.addmain();
 
 
     }
